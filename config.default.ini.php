@@ -94,5 +94,6 @@ host = "localhost"
 port = 11211
 
 [InstagramBridge]
+ds_user_id = 13627716057
 session_id = 13627716057%3A8apkWiGBeAR3VD%3A14
 cache_timeout = 3600
