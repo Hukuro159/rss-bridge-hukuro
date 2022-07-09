@@ -95,4 +95,5 @@ port = 11211
 
 [InstagramBridge]
 session_id = 13627716057%3A8apkWiGBeAR3VD%3A14
+ds_user_id = 13627716057
 cache_timeout = 3600
